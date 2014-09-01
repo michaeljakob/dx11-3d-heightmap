@@ -1,0 +1,1 @@
+start FinalOptimization.exe flatland.ter

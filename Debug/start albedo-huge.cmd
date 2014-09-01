@@ -1,0 +1,1 @@
+start FinalOptimization.exe albedo_1024x1024.ter

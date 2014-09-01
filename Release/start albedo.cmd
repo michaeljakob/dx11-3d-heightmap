@@ -1,0 +1,1 @@
+start FinalOptimization.exe albedo_512x512.ter
