@@ -11,9 +11,9 @@ A heightmap-loader (greyscale RAW pictures) as well as a shader-loader are inclu
 
 
 Controls:
-W, A, S, D    move in the 3d world
-Arrow         keys look around
-M             toggle gravity
+* W, A, S, D    move in the 3d world
+* Arrow         keys look around
+* M             toggle gravity
 
 
 
