@@ -22,8 +22,8 @@ Download the file `Release/Michael Jakob - FinalOptimization.zip` and unzip it.
 Within you will find a Microsoft executable file you can run.
 Note that a **Direct3D 11** graphics card is required in order to properly use this application
 
-
-
-
-
-
+# Screenshots
+![dx11-3d-heightmap](https://github.com/michaeljakob/dx11-3d-heightmap/raw/master/screenshots/Screenshot-2.jpg)
+![dx11-3d-heightmap](https://github.com/michaeljakob/dx11-3d-heightmap/raw/master/screenshots/Screenshot-4.jpg)
+![dx11-3d-heightmap](https://github.com/michaeljakob/dx11-3d-heightmap/raw/master/screenshots/Screenshot-3.jpg)
+![dx11-3d-heightmap](https://github.com/michaeljakob/dx11-3d-heightmap/raw/master/screenshots/Screenshot-1.jpg)
