@@ -17,7 +17,10 @@ Controls:
 
 
 
-
+# Test the program
+Download the file `Release/Michael Jakob - FinalOptimization.zip` and unzip it.
+Within you will find a Microsoft executable file you can run.
+Note that a **Direct3D 11** graphics card is required in order to properly use this application
 
 
 
